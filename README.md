@@ -1,7 +1,7 @@
 # Hi there, I'm Luca Maria Brotto! 👋
 
-### 🎓 Computer Engineering Student @ Politecnico di Milano
-I am an aspiring Computer Engineer with a strong focus on **Artificial Intelligence** and **Data Science**. Currently in my final year of the Bachelor's degree, a passion for innovative technological challenges.
+### 🎓 A brief description of my academics
+I'm a Computer Engineering graduate pursuing an EIT Digital Double M.Sc. in Computer Science at Politecnico di Milano and Data Science at KTH, the Royal Institute of Technology in Stockholm. I am passionate about Artificial Intelligence and data analysis, always looking for new ideas, technology trends, and opportunities to grow.
 
 ---
 
@@ -25,8 +25,9 @@ I am an aspiring Computer Engineer with a strong focus on **Artificial Intellige
 
 ---
 
-## 📜 Education & Certifications  
-* **B.Sc. in Computer Engineering** – Politecnico di Milano (In progress).
+## 📜 Education & Certifications
+* **EIT Digital Double M.Sc.** in Computer Science and Engineering & Data Science - Politecnico di Milano & KTH.
+* **B.Sc. in Computer Engineering** – Politecnico di Milano.
 * **Classical Maturity** – "F. Morosini" Naval Military School.
 * **Advanced SQL** – Kaggle Certified.
 * **Technologies and platforms for Artificial Intelligence** - Politecnico di Milano (Open Badge).
